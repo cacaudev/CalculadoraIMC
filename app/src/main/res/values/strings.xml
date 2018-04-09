@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="name_person">Nome:</string>
+    <string name="age_person">Idade:</string>
+    <string name="weight_person">Peso:</string>
+    <string name="height_person">Altura:</string>
+    <string name="report">Relatório Nutricional</string>
+    <string name="classification">Classificação:</string>
+    <string name="comeback_to_formulary">Retornar ao Formulário</string>
+    <string name="imc">IMC:</string>
+</resources>
